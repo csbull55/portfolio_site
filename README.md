@@ -33,6 +33,7 @@ The goal of this project was to get familar with the django framework. I mainly 
 
 # Deployement
 
-I'll eventually update the site with actual information and polish it up to become a little more presentable. For now I accomplished my main goal of learning a web framework
+I'll eventually update the site with actual information and polish it up to become a little more presentable. For now I accomplished my main goal of learning a web framework.
+
 </br>
 I might start to incorperate this framework as a front-end for some of the apps I'm building. Previously I was using the terminal as a way to interact and display info.
